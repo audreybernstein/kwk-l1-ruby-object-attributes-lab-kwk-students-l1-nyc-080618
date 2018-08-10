@@ -17,8 +17,3 @@ class Dog
     @breed = new_breed
   end
 end
-
-dog_one = Dog.new
-puts dog_one.name
-dog_one.name= "mazie"
-puts dog_one.name
