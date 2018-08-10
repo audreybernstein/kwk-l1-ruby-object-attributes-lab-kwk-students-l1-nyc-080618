@@ -19,4 +19,4 @@ class Dog
 end
 
 dog_one = Dog.new
-puts dog.name
+puts dog_one.name
