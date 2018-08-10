@@ -18,3 +18,5 @@ class Dog
   end
 end
 
+dog_one = Dog.new
+dog.name
